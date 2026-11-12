@@ -1,0 +1,14 @@
+C:\Users\claud\Desktop\VFProiect\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\VFProiect\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\VFProiect\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\claud\Desktop\VFProiect\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\VFProiect\Main.exe
+C:\Users\claud\Desktop\VFProiect\obj\Debug\net8.0\Main.dll
+C:\Users\claud\Desktop\VFProiect\obj\Debug\net8.0\refint\Main.dll
+C:\Users\claud\Desktop\VFProiect\obj\Debug\net8.0\Main.pdb
+C:\Users\claud\Desktop\VFProiect\Main.deps.json
+C:\Users\claud\Desktop\VFProiect\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\claud\Desktop\VFProiect\Main.runtimeconfig.json
+C:\Users\claud\Desktop\VFProiect\Main.dll
+C:\Users\claud\Desktop\VFProiect\obj\Debug\net8.0\ref\Main.dll
+C:\Users\claud\Desktop\VFProiect\Main.pdb
